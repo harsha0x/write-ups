@@ -5,10 +5,6 @@ Difficulty: Insane
 
 Machine: WhiteRabbit
 
-Hack The Box username: Creepus
-
-NULLCLASS username: Harsha Vardhan
-
 Hello everyone! I'm sharing my experience with "WhiteRabbit," an Insane-difficulty machine on Hack The Box. This machine presented a series of interconnected challenges that required careful analysis and lot of persistence. I'll walk you through the steps I took to navigate its various layers and ultimately capture both the user and root flags.
 
 Phase 1: Initial Reconnaissance
