@@ -1,24 +1,14 @@
-# WhiteRabbit - Hack The Box Write-up
+# Hack The Box Writeups
 
-This repository contains my personal write-up for **WhiteRabbit**, an Insane-rated machine on Hack The Box.
+This repository contains my writeups and solutions for **Hack The Box** (HTB) machines and challenges.
+
+## 📜 Guidelines
+* **Retired Content Only:** I will only publish writeups for machines or challenges that have been officially retired.
+* **Ethics:** No flags or walkthroughs for active content will ever be posted here.
+* **The Process:** Each writeup will include my way of solving the box, along with extended data or notes gathered during the process.
+
+## 📂 Content
+Writeups will be added as I progress through the HTB labs. 
 
 ---
-
-## About This Machine
-
-WhiteRabbit is a seriously tough but incredibly fun machine. Solving it was a real rollercoaster of emotions—from moments of being completely stuck to the thrill of seeing a complex exploit chain finally work. It tested a wide range of skills and required a lot of persistence. Overall, it was a super rewarding experience that pushed my abilities to the limit.
-
----
-
-## Read The Full Write-up
-
-I've documented the entire process, from initial enumeration to getting the root flag.
-
-You can find the detailed, step-by-step guide in two places:
-
-1.  **On Medium (Recommended):** For the best reading experience with embedded images and proper formatting, please read the article here:
-    [**WhiteRabbit — An Insane Hack The Box Machine Write-up**](https://medium.com/@creepus/write-up-of-whiterabbit-an-insane-hack-the-box-machine-89f365969d28)
-
-2.  **In this Repository:** A plain Markdown version is also available in this repo. You can read it by opening the `WRITEUP.md` file.
-
-Happy hacking! 🚀
+*Disclaimer: This repository is for educational purposes and personal documentation.*
