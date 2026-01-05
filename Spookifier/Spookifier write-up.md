@@ -42,7 +42,7 @@ We first test if the template engine evaluates expressions by injecting a simple
 -   **Input:** `${7*7}`
 
 -   **Result:** The application calculates the result and renders **49**.
--   ![result and renders as 49](49.jpg)
+-   ![result and renders as 49](2.jpg)
 
 ### **Gaining Remote Code Execution (RCE)**
 
