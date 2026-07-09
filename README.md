@@ -19,3 +19,10 @@ All of these write-ups are originally published on my personal blog site. If you
 *   **Methodology:** How I approach an unknown target, enumerate attack surfaces, and find vectors.
 *   **CTF Write-ups:** Detailed breakdowns of Jeopardy-style and Boot2Root challenges.
 *   **Lessons Learned:** Retrospectives on what went wrong and how to avoid rabbit holes.
+
+Happy Hacking 💻
+
+### Contact:
+LinkedIn: https://linkedin.com/in/harsha1061  
+Gmail: harshathota072@gmail.com  
+Discord: https://discord.com/users/.creepus.  
