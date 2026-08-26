@@ -1,30 +1,38 @@
-# Advanced SQLi - A TryHackMe Room
-Status: 🚧 This room is currently under review by the TryHackMe team. It is not publicly listed on the platform yet, but it is fully functional and can be accessed for solving using the direct link below.
+# Advanced SQLi - TryHackMe Room
 
-### 📖 Overview
-Welcome to "Advanced SQLi"! This is a hands-on lab I created to teach and test intermediate to advanced SQL Injection vulnerabilities. The challenges in this room are designed to move beyond the basics and into more complex, real-world exploitation scenarios.
+> **Status:** This room is currently under review by the TryHackMe team. While it is not yet publicly listed on the platform directory, it is fully functional and accessible via the direct link below.
 
-### 🚀 How to Get Started
+---
 
-You have two ways to engage with this project:
+## Overview
 
-1.  **Solve the Room:**
-    * Challenge yourself and try to solve the lab directly on the TryHackMe platform.
-    * **[➡️ Click here to join the room on TryHackMe](https://tryhackme.com/jr/AdvancedSQLi)**
+Welcome to **Advanced SQLi**, a hands-on cybersecurity lab designed to teach and test intermediate-to-advanced SQL Injection (SQLi) vulnerabilities. The challenges in this room extend beyond foundational concepts to simulate complex, real-world exploitation scenarios.
 
-2.  **Read the Write-up:**
-    * If you get stuck or want to see the intended solution, I have created a detailed, step-by-step write-up.
-    * You can read it on [**Medium**](https://medium.com/@creepus/advanced-sqli-a-tryhackme-room-write-up-81561fb07689) (recomended) or in the [**`WRITEUP.md` file in this repository**](./WRITEUP.md).
+---
 
-### 🎯 Topics Covered
+## Getting Started
 
-Classic Injection Techniques
+You can engage with this project in two ways:
 
-SQL injection
+1. **Solve the Room**  
+   Challenge yourself by attempting the lab directly on TryHackMe.  
+   * [Join the room on TryHackMe](https://tryhackme.com/jr/AdvancedSQLi)
 
-Unauthorized file access
+2. **Read the Write-up**  
+   If you need guidance or want to review the intended solution, a detailed step-by-step write-up is available.  
+   * Read on [Medium](https://medium.com/@harsha0x/advanced-sqli-a-tryhackme-room-write-up-81561fb07689) (Recommended)  
+   * Read locally in the [`WRITEUP.md`](./WRITEUP.md) file included in this repository.
 
-Remote Code Execution
+---
 
+## Topics Covered
 
-### Feel free to raise an issue in this repository if you find any bugs or have suggestions for the room!
+* Advanced SQL Injection techniques
+* Unauthorized file access and retrieval
+* Remote Code Execution (RCE) via database exploitation
+
+---
+
+## Feedback and Contributions
+
+If you encounter bugs, room issues, or have suggestions for improvement, please open an issue in this repository.
