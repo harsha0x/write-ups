@@ -1,4 +1,4 @@
-# 🏴‍☠️ Write-ups & Cyber Security Blogs
+# Write-ups & Cyber Security Blogs
 
 > "Make mistakes and learn from them, it's human nature."
 
@@ -6,23 +6,25 @@ Welcome to my personal archive of write-ups! This repository is a collection of 
 
 ---
 
-## ⚓ Read the Full Blogs
+## Read the Full Blogs
 
 All of these write-ups are originally published on my personal blog site. If you prefer a more polished reading experience, check it out here:
 
 🔗 **[starfellharbor.mooo.com](https://starfellharbor.mooo.com)** *(You might just like it there!)*
 
+or you can also check them in my medium page [here](https://medium.com/harsha0x).
+
 ---
 
-## 🧠 What You'll Find Here
+## What You'll Find Here
 
 *   **Methodology:** How I approach an unknown target, enumerate attack surfaces, and find vectors.
 *   **CTF Write-ups:** Detailed breakdowns of Jeopardy-style and Boot2Root challenges.
 *   **Lessons Learned:** Retrospectives on what went wrong and how to avoid rabbit holes.
 
-Happy Hacking 💻
+Happy Hacking
 
 ### Contact:
-LinkedIn: https://linkedin.com/in/harsha1061  
+LinkedIn: https://linkedin.com/in/harsha0x  
 Gmail: harshathota072@gmail.com  
-Discord: https://discord.com/users/.creepus.  
+Discord: harsha0x 
