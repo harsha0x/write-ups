@@ -12,7 +12,7 @@ All of these write-ups are originally published on my personal blog site. If you
 
 🔗 **[starfellharbor.mooo.com](https://starfellharbor.mooo.com)** *(You might just like it there!)*
 
-or you can also check them in my medium page [here](https://medium.com/harsha0x).
+or you can also check them in my medium page [here](https://medium.com/@harsha0x).
 
 ---
 
